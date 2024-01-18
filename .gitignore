@@ -1,0 +1,4 @@
+.cache
+.webstudio
+node_modules
+build
